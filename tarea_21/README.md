@@ -1,5 +1,5 @@
 Tarea 21
-La primera tarea de la escuela en la que hay tengo que desarrallor y mi primera experiencia con Phyton. 
+La primera tarea de la escuela en la que he tenido que desarrallar y mi primera experiencia con Phyton. 
 He utilizado Phyton 3 y programado en Visual Studio Code.
 
 Notación Big-O: O(1)
