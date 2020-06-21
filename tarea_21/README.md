@@ -14,7 +14,7 @@ Al ser la primera vez sin querer he leído un poco el apartado Explicación del 
 
 2.- Sabiendo que el denominador siempre debe ser mayor que el enumerador para que el resultado sea entre 0 y 1 he iterado una variable desde el valor 1 hasta el 10000. Se acaba en el 10000 ya que el mayor valor posible (0.9999) se obtendría como máximo haciendo 9999/10000.
 
-3.- Desde esta iteración llamo a una función que calcula pasándole el denominador si existe un numerador de menor valor que al dividirlos dé el valor de entrada.
+3.- Desde esta iteración llamo a una función que calcula pasándole el denominador si existe un numerador de menor valor que al dividirlos dé el valor de entrada. Itera para otra variable desde 1 hasta el valor recibido.
 
 4.- Si desde esta función se devolviera un valor éste sería directamente la fracción irreducible.
 
