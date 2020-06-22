@@ -1,7 +1,8 @@
 #Tarea 21 Joseba Andreu
 
 #Dato de entrada
-inputNum = 0.9931
+inputNum = input("Por favor, introduzca un número entre 0.0001 y 0.9999: ")
+inputNum = float(inputNum)
 
 #Función que calcula pasándole el denominador si existe un numerador de menor valor que haga que la división
 # entre ambos sea el número de entrada
